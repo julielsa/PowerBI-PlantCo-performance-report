@@ -25,6 +25,6 @@ It equips stakeholders with the tools needed to:
 - Allocate resources more effectively.
 - Develop targeted strategies to boost performance in underperforming markets.
   
-[*PowerBi File*](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCoDashboard.pbix)
+[*PowerBI File*](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCoDashboard.pbix)
 
 ![PowerBi Performance Dashboard](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCo_performance_dash.png)
