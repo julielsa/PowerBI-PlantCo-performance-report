@@ -1,10 +1,11 @@
 # PowerBI-Plant Co. Performance Report
 
 ### Dataset
-Data Source: 
+Data Source: [Mo Chen](https://github.com/mochen862) 
+[Data Excel Link](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/Plant_DTS.xls)
 
 ### Objectives
-- This report highlights the Happiness Score by country on a World Map. 
+- This report highlights  
 - 
 
 ### Area of Analysis
