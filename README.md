@@ -43,7 +43,7 @@ It equips stakeholders with the tools needed to:
   - Localized Content: Develop localized marketing content and product descriptions to connect with customers in their native language and cultural context.
   - Customer Engagement: Enhance customer engagement through interactive campaigns, social media interactions, and community-building activities. Encourage customers to share their experiences and testimonials with the plant offerings.
   - E-commerce Optimization: Optimize the e-commerce platform to ensure a seamless shopping experience. Implement features such as localized currency, payment options, and shipping methods.
-  - 
+    
 #### PowerBI Dashboard
 [*PowerBI File*](https://github.com/julielsa/PowerBI-PlantCo-performance-report/blob/main/PlantCoDashboard.pbix)
 
