@@ -32,7 +32,7 @@ The project methodology comprised the following key phases:
 - Data Cleaning
 - Visualization
   
-### Results & Recommendations: 
+### Conclusion & Recommendations: 
 By leveraging the capabilities of PowerBI, this dashboard transforms raw data into meaningful visualizations that support data-driven decision-making. 
 It equips stakeholders with the tools needed to:
   - Identify and respond to emerging trends.
